@@ -71,7 +71,7 @@ export default function Home() {
 
       {/* Fixed button in the bottom right corner */}
       <div className="fixed bottom-4 right-4">
-        <Link href="https://github.com/Rohitk131">
+        <Link href="https://github.com/Gaurav-Lodhi10">
           <AnimatedShinyTextDemo />
         </Link>
       </div>
